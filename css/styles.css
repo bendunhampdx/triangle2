@@ -1,0 +1,20 @@
+body {
+  background-color: #000;
+  color:rgb(82, 136, 1);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+  width:60%;
+  margin:auto;
+  padding: 50px 0px 0px 0px;
+}
+
+#check {
+  margin: 30px 0px 30px 0px;
+}
+
+#again {
+  display:none;
+  margin: 30px 0px 30px 0px;
+}
